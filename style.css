@@ -21,14 +21,14 @@ main{
 
 .ingreso{
     width: 57.04698%;
+    height: 936px;
 }
 
-
 .text-area{
-    height: 400px;
+    height: 683px;
     border: none;
     color: #0A3871;
-    margin-top: 30px;
+    margin-top: 80px;
     padding: 2px;
     text-transform: lowercase;
 }
@@ -36,6 +36,11 @@ main{
 ::placeholder { color: #0A3871;}
 .text-area:focus {
     outline: none;
+}
+
+.informacion{
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .mensaje{
@@ -46,10 +51,13 @@ main{
     border: none;
     border-radius: 24px;
     color: #0A3871;
-    margin-left: 98px;
-    margin-top: 20px;
-    padding-left: 20px;
+    margin-left: 5.5556%;
+    margin-top: 0px;
+    padding-left: 0px;
     position: fixed;
+    width: 23.3333%;
+    height: 944px;
+    padding: 32px;
 }
 .mensaje:focus {
     outline: none;
@@ -57,7 +65,7 @@ main{
 
 .botones{
     display: flex;
-    margin-top: 18px;
+    margin-top: 16px;
 }
 
 .btn-encriptar {
@@ -88,9 +96,9 @@ main{
     cursor: pointer;
     height: 67px;
     margin-left: 120px;
-    margin-top: 565px;
+    margin-top: 820px;
     position: absolute;
-    width: 328px;
+    width: 23.3333%;
 }
 
 .informacion {
